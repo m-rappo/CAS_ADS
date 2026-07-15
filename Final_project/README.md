@@ -64,7 +64,7 @@ and persists it, so that all models and reruns share the exact same test set.
 
 ## Requirements
 
-Python 3.14, with the packages pinned in `requirements.txt` (main stack:
+Python 3.14, with the packages pinned in `requirements.lock.txt` (main stack:
 pandas, scikit-learn, lifelines, matplotlib). To reproduce the environment:
 
 ```bash
